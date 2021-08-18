@@ -1,4 +1,4 @@
-## Permission Manager
+## File Helper
 
 Developed for file management/conversion in javascript/typescript
 
