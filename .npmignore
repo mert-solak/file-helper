@@ -1,0 +1,9 @@
+.vscode
+node_modules
+src
+.dev.env
+.env
+.gitignore
+package-lock.json
+rollup.config.js
+tsconfig.json
